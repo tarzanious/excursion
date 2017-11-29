@@ -1,0 +1,32 @@
+*{
+  background-color: black;
+  text-align: center
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  color: Aquamarine;
+  font-size: 16px
+}
+
+h3{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.footer {
+  text-align: right;
+  color: Gray
+}
+
+#propaganda {
+  font-weight: 300;
+  font-size: 42px;
+}
